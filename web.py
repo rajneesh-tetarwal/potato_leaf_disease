@@ -6,7 +6,7 @@ import tensorflow as tf
 import tensorflow.keras as keras
 import matplotlib.pyplot as plt
 import base64
-from annotated_text import annotated_text 
+
 
 img=Image.open("360_F_524073051_Vy9uJptKxsZslEFXqj3WMQxAcWA3yK6X.jpg")
 st.set_page_config(page_title="Potato leaf disease detection",page_icon=img)
