@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 import tensorflow as tf
-import tensorflow.keras as keras
+import keras as keras 
 import matplotlib.pyplot as plt
 import base64
 
