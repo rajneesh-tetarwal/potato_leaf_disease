@@ -80,7 +80,7 @@ def main() :
 def predict_class(image):
 
     # Create the model
-    model=tf.keras.models.load_model("my_model.h5")
+    model=tf.keras.models.load_model("Model.h5")
 
     # Preprocess the image
     test_image = image.resize((256, 256))
