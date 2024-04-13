@@ -32,6 +32,8 @@ For an in-depth exploration of the model's inner workings, including its archite
 
 📘 [Explore Model Details](https://github.com/rajneesh-tetarwal/potato_leaf_disease/blob/main/potato_leaf_disease_detection.ipynb)
 
+After training the model using the above techniques I got a training accuracy of 0.9920 and a validation accuracy of 0.9969.
+
 To bring this model to the broader online community, I've developed and deployed a user-friendly website utilizing the Streamlit Python framework. You can access this website via the above mentioned instructions:
 
 🔗 [Visit the Website](https://potatoleafdisease-guygwmkoh9v7wf7e9w7m5l.streamlit.app/)
