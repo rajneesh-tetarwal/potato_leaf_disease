@@ -24,8 +24,16 @@ Follow these steps to utilize the website for detecting potato leaf diseases:
    <img src="https://github.com/rajneesh-tetarwal/potato_leaf_disease/assets/145259814/9abe22af-8631-46b8-a5f5-ca1bb6e434cf" alt="Confidence" width="400">
 
 
-# About the model
-the detection model used in this project is trained on the potato leaf disease images from the **plant_village** dataset provided with the problem statement for this project
-for more information on the architecture of model, preprocessing data, feature extraction methods implemented,accuracy of the trained model and any libraries used you can refer to the jupyter notebook in the main repository.
+# About the Model
+
+In this project, I've employed a detection model trained on a diverse array of potato leaf disease images sourced from the **plant_village** dataset, which was thoughtfully provided with the project's problem statement.
+
+For an in-depth exploration of the model's inner workings, including its architecture, data preprocessing methodologies, feature extraction techniques, and the model's accuracy, I encourage you to delve into the accompanying Jupyter notebook:
+
+📘 [Explore Model Details](https://github.com/rajneesh-tetarwal/potato_leaf_disease/blob/main/potato_leaf_disease_detection.ipynb)
+
+To bring this model to the broader online community, I've developed and deployed a user-friendly website utilizing the Streamlit Python framework. You can access this website via the above mentioned instructions:
+
+🔗 [Visit the Website](https://potatoleafdisease-guygwmkoh9v7wf7e9w7m5l.streamlit.app/)
 
 
