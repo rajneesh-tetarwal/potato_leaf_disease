@@ -21,7 +21,7 @@ Follow these steps to utilize the website for detecting potato leaf diseases:
 
 4. You can check the checkbox for more information on the final results, such as confidence in the prediction.
 
-   <img src="![image](https://github.com/rajneesh-tetarwal/potato_leaf_disease/assets/145259814/3e09a11f-918f-4f87-9b8a-e27062743103)" alt="Confidence" width="400">
+   <img src="https://github.com/rajneesh-tetarwal/potato_leaf_disease/assets/145259814/3e09a11f-918f-4f87-9b8a-e27062743103" alt="Confidence" width="400">
 
 
 # About the Model
