@@ -12,14 +12,16 @@ Follow these steps to utilize the website for detecting potato leaf diseases:
 
    Note: The uploaded image will be displayed to ensure you have selected the correct one.
    
+   ## _**for best results upload image of the single leaf which needs to be tested having a plain non complex background.**_
+   
    <img src="https://github.com/rajneesh-tetarwal/potato_leaf_disease/assets/145259814/9a0a4150-f80a-4c13-a410-202b1d7d5015" alt="Sample Image" width="400">
    (This image of a healthy potato leaf was randomly downloaded from Google)
 
-3. The test will automatically run once you upload the image, and the final result will be shown below the image.
+4. The test will automatically run once you upload the image, and the final result will be shown below the image.
 
    <img src="https://github.com/rajneesh-tetarwal/potato_leaf_disease/assets/145259814/33e2c015-5aac-4bb4-a56a-ae3f6f332687" alt="Detection Result" width="400">
 
-4. You can check the checkbox for more information on the final results, such as confidence in the prediction.
+5. You can check the checkbox for more information on the final results, such as confidence in the prediction.
 
    <img src="https://github.com/rajneesh-tetarwal/potato_leaf_disease/assets/145259814/3e09a11f-918f-4f87-9b8a-e27062743103" alt="Confidence" width="400">
 
